@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-04T00:35:01 IST" name="Surefire suite" finished-at="2020-05-04T00:35:58 IST" duration-ms="56192">
+    <groups>
+    </groups>
+    <test started-at="2020-05-04T00:35:01 IST" name="Surefire test" finished-at="2020-05-04T00:35:58 IST" duration-ms="56192">
+      <class name="mavenJava.NegativeTest">
+        <test-method signature="negativetest()[pri:0, instance:mavenJava.NegativeTest@4218d6a3]" started-at="2020-05-04T00:35:02 IST" name="negativetest" finished-at="2020-05-04T00:35:14 IST" duration-ms="12769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativetest -->
+      </class> <!-- mavenJava.NegativeTest -->
+      <class name="JavaCodes.TwoTest">
+        <test-method signature="NewJavatestOne()[pri:0, instance:JavaCodes.TwoTest@235834f2]" started-at="2020-05-04T00:35:02 IST" name="NewJavatestOne" finished-at="2020-05-04T00:35:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewJavatestOne -->
+        <test-method signature="NewJavatestTwo()[pri:0, instance:JavaCodes.TwoTest@235834f2]" started-at="2020-05-04T00:35:02 IST" name="NewJavatestTwo" finished-at="2020-05-04T00:35:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewJavatestTwo -->
+      </class> <!-- JavaCodes.TwoTest -->
+      <class name="JavaCodes.OneTest">
+        <test-method is-config="true" signature="JavaThreeTest()[pri:0, instance:JavaCodes.OneTest@3270d194]" started-at="2020-05-04T00:35:01 IST" name="JavaThreeTest" finished-at="2020-05-04T00:35:02 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JavaThreeTest -->
+        <test-method signature="JavaFourTest()[pri:0, instance:JavaCodes.OneTest@3270d194]" started-at="2020-05-04T00:35:02 IST" name="JavaFourTest" finished-at="2020-05-04T00:35:02 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JavaFourTest -->
+        <test-method signature="JavaOneTest()[pri:0, instance:JavaCodes.OneTest@3270d194]" started-at="2020-05-04T00:35:02 IST" name="JavaOneTest" finished-at="2020-05-04T00:35:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JavaOneTest -->
+        <test-method signature="JavaSixTest()[pri:0, instance:JavaCodes.OneTest@3270d194]" started-at="2020-05-04T00:35:02 IST" name="JavaSixTest" finished-at="2020-05-04T00:35:02 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JavaSixTest -->
+        <test-method signature="JavaTwoTest()[pri:0, instance:JavaCodes.OneTest@3270d194]" started-at="2020-05-04T00:35:02 IST" name="JavaTwoTest" finished-at="2020-05-04T00:35:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JavaTwoTest -->
+        <test-method is-config="true" signature="JavaFiveTest()[pri:0, instance:JavaCodes.OneTest@3270d194]" started-at="2020-05-04T00:35:58 IST" name="JavaFiveTest" finished-at="2020-05-04T00:35:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JavaFiveTest -->
+      </class> <!-- JavaCodes.OneTest -->
+      <class name="mavenJava.PositiveTest">
+        <test-method signature="ItmLinkTest()[pri:0, instance:mavenJava.PositiveTest@76505305]" started-at="2020-05-04T00:35:14 IST" name="ItmLinkTest" finished-at="2020-05-04T00:35:30 IST" duration-ms="16051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ItmLinkTest -->
+        <test-method signature="LogoutTest()[pri:0, instance:mavenJava.PositiveTest@76505305]" started-at="2020-05-04T00:35:30 IST" name="LogoutTest" finished-at="2020-05-04T00:35:44 IST" duration-ms="13849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutTest -->
+        <test-method signature="TestNg()[pri:0, instance:mavenJava.PositiveTest@76505305]" started-at="2020-05-04T00:35:44 IST" name="TestNg" finished-at="2020-05-04T00:35:58 IST" duration-ms="13447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNg -->
+      </class> <!-- mavenJava.PositiveTest -->
+      <class name="mavenJava.JavaTest">
+        <test-method signature="JavaoneTest()[pri:0, instance:mavenJava.JavaTest@5656be13]" started-at="2020-05-04T00:35:02 IST" name="JavaoneTest" finished-at="2020-05-04T00:35:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JavaoneTest -->
+        <test-method signature="test()[pri:0, instance:mavenJava.JavaTest@5656be13]" started-at="2020-05-04T00:35:02 IST" name="test" finished-at="2020-05-04T00:35:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- mavenJava.JavaTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

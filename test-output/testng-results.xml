@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-04T00:09:01 IST" name="Suite" finished-at="2020-05-04T00:09:01 IST" duration-ms="80">
+    <groups>
+    </groups>
+    <test started-at="2020-05-04T00:09:01 IST" name="Test" finished-at="2020-05-04T00:09:01 IST" duration-ms="80">
+      <class name="JavaCodes.TwoTest">
+        <test-method signature="NewJavatestOne()[pri:0, instance:JavaCodes.TwoTest@157853da]" started-at="2020-05-04T00:09:01 IST" name="NewJavatestOne" finished-at="2020-05-04T00:09:01 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewJavatestOne -->
+        <test-method signature="NewJavatestTwo()[pri:0, instance:JavaCodes.TwoTest@157853da]" started-at="2020-05-04T00:09:01 IST" name="NewJavatestTwo" finished-at="2020-05-04T00:09:01 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewJavatestTwo -->
+      </class> <!-- JavaCodes.TwoTest -->
+      <class name="JavaCodes.OneTest">
+        <test-method is-config="true" signature="JavaThreeTest()[pri:0, instance:JavaCodes.OneTest@343570b7]" started-at="2020-05-04T00:09:01 IST" name="JavaThreeTest" finished-at="2020-05-04T00:09:01 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JavaThreeTest -->
+        <test-method signature="JavaFourTest()[pri:0, instance:JavaCodes.OneTest@343570b7]" started-at="2020-05-04T00:09:01 IST" name="JavaFourTest" finished-at="2020-05-04T00:09:01 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JavaFourTest -->
+        <test-method signature="JavaOneTest()[pri:0, instance:JavaCodes.OneTest@343570b7]" started-at="2020-05-04T00:09:01 IST" name="JavaOneTest" finished-at="2020-05-04T00:09:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JavaOneTest -->
+        <test-method signature="JavaSixTest()[pri:0, instance:JavaCodes.OneTest@343570b7]" started-at="2020-05-04T00:09:01 IST" name="JavaSixTest" finished-at="2020-05-04T00:09:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JavaSixTest -->
+        <test-method signature="JavaTwoTest()[pri:0, instance:JavaCodes.OneTest@343570b7]" started-at="2020-05-04T00:09:01 IST" name="JavaTwoTest" finished-at="2020-05-04T00:09:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JavaTwoTest -->
+        <test-method is-config="true" signature="JavaFiveTest()[pri:0, instance:JavaCodes.OneTest@343570b7]" started-at="2020-05-04T00:09:01 IST" name="JavaFiveTest" finished-at="2020-05-04T00:09:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JavaFiveTest -->
+      </class> <!-- JavaCodes.OneTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
